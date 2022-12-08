@@ -1,0 +1,17 @@
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\bin\Debug\net6.0\CleanTblHrEmp.Application.deps.json
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\bin\Debug\net6.0\CleanTblHrEmp.Application.runtimeconfig.json
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\bin\Debug\net6.0\CleanTblHrEmp.Application.dll
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\bin\Debug\net6.0\CleanTblHrEmp.Application.pdb
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\bin\Debug\net6.0\CleanTblHrEmp.Domain.dll
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\bin\Debug\net6.0\CleanTblHrEmp.Domain.pdb
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\obj\Debug\net6.0\CleanTblHrEmp.Application.csproj.AssemblyReference.cache
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\obj\Debug\net6.0\CleanTblHrEmp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\obj\Debug\net6.0\CleanTblHrEmp.Application.AssemblyInfoInputs.cache
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\obj\Debug\net6.0\CleanTblHrEmp.Application.AssemblyInfo.cs
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\obj\Debug\net6.0\CleanTblHrEmp.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\obj\Debug\net6.0\CleanTblHrEmp.Application.csproj.CopyComplete
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\obj\Debug\net6.0\CleanTblHrEmp.Application.dll
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\obj\Debug\net6.0\refint\CleanTblHrEmp.Application.dll
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\obj\Debug\net6.0\CleanTblHrEmp.Application.pdb
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\obj\Debug\net6.0\CleanTblHrEmp.Application.genruntimeconfig.cache
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Application\obj\Debug\net6.0\ref\CleanTblHrEmp.Application.dll

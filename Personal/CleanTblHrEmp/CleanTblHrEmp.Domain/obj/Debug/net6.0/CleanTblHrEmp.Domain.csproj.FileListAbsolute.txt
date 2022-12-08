@@ -1,0 +1,14 @@
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Domain\bin\Debug\net6.0\CleanTblHrEmp.Domain.deps.json
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Domain\bin\Debug\net6.0\CleanTblHrEmp.Domain.runtimeconfig.json
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Domain\bin\Debug\net6.0\CleanTblHrEmp.Domain.dll
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Domain\bin\Debug\net6.0\CleanTblHrEmp.Domain.pdb
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Domain\obj\Debug\net6.0\CleanTblHrEmp.Domain.csproj.AssemblyReference.cache
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Domain\obj\Debug\net6.0\CleanTblHrEmp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Domain\obj\Debug\net6.0\CleanTblHrEmp.Domain.AssemblyInfoInputs.cache
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Domain\obj\Debug\net6.0\CleanTblHrEmp.Domain.AssemblyInfo.cs
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Domain\obj\Debug\net6.0\CleanTblHrEmp.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Domain\obj\Debug\net6.0\CleanTblHrEmp.Domain.dll
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Domain\obj\Debug\net6.0\refint\CleanTblHrEmp.Domain.dll
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Domain\obj\Debug\net6.0\CleanTblHrEmp.Domain.pdb
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Domain\obj\Debug\net6.0\CleanTblHrEmp.Domain.genruntimeconfig.cache
+D:\Projects\Personal\CleanTblHrEmp\CleanTblHrEmp.Domain\obj\Debug\net6.0\ref\CleanTblHrEmp.Domain.dll
